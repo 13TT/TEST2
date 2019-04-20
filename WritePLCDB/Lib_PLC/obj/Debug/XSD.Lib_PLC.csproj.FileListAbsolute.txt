@@ -1,0 +1,27 @@
+D:\WXG\XSD\src\XSD\Lib_PLC\bin\Debug\XSD.Lib_PLC.dll
+D:\WXG\XSD\src\XSD\Lib_PLC\bin\Debug\XSD.Lib_PLC.pdb
+D:\WXG\XSD\src\XSD\Lib_PLC\obj\Debug\XSD.Lib_PLC.dll
+D:\WXG\XSD\src\XSD\Lib_PLC\obj\Debug\XSD.Lib_PLC.pdb
+G:\WXG\XSD\src\XSD\Lib_PLC\bin\Debug\XSD.Lib_PLC.dll
+G:\WXG\XSD\src\XSD\Lib_PLC\bin\Debug\XSD.Lib_PLC.pdb
+G:\WXG\XSD\src\XSD\Lib_PLC\obj\Debug\ResolveAssemblyReference.cache
+G:\WXG\XSD\src\XSD\Lib_PLC\obj\Debug\XSD.Lib_PLC.dll
+G:\WXG\XSD\src\XSD\Lib_PLC\obj\Debug\XSD.Lib_PLC.pdb
+D:\WXG\1.1\05_Source Code\XSD\XDS\Lib_PLC\bin\Debug\XSD.Lib_PLC.dll
+D:\WXG\1.1\05_Source Code\XSD\XDS\Lib_PLC\bin\Debug\XSD.Lib_PLC.pdb
+D:\WXG\1.1\05_Source Code\XSD\XDS\Lib_PLC\obj\Debug\ResolveAssemblyReference.cache
+D:\WXG\1.1\05_Source Code\XSD\XDS\Lib_PLC\obj\Debug\XSD.Lib_PLC.dll
+D:\WXG\1.1\05_Source Code\XSD\XDS\Lib_PLC\obj\Debug\XSD.Lib_PLC.pdb
+D:\WXG\1.1\05_Source Code\XSD\XSD\Lib_PLC\bin\Debug\XSD.Lib_PLC.dll
+D:\WXG\1.1\05_Source Code\XSD\XSD\Lib_PLC\bin\Debug\XSD.Lib_PLC.pdb
+D:\WXG\1.1\05_Source Code\XSD\XSD\Lib_PLC\obj\Debug\ResolveAssemblyReference.cache
+D:\WXG\1.1\05_Source Code\XSD\XSD\Lib_PLC\obj\Debug\XSD.Lib_PLC.dll
+D:\WXG\1.1\05_Source Code\XSD\XSD\Lib_PLC\obj\Debug\XSD.Lib_PLC.pdb
+D:\Debug\XSD\Lib_PLC\bin\Debug\XSD.Lib_PLC.dll
+D:\Debug\XSD\Lib_PLC\bin\Debug\XSD.Lib_PLC.pdb
+D:\Debug\XSD\Lib_PLC\obj\Debug\XSD.Lib_PLC.dll
+D:\Debug\XSD\Lib_PLC\obj\Debug\XSD.Lib_PLC.pdb
+D:\Debug\SRC\WritePLCDB\Lib_PLC\bin\Debug\XSD.Lib_PLC.dll
+D:\Debug\SRC\WritePLCDB\Lib_PLC\bin\Debug\XSD.Lib_PLC.pdb
+D:\Debug\SRC\WritePLCDB\Lib_PLC\obj\Debug\XSD.Lib_PLC.dll
+D:\Debug\SRC\WritePLCDB\Lib_PLC\obj\Debug\XSD.Lib_PLC.pdb
